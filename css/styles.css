@@ -923,7 +923,7 @@ textarea {
 }
 .btn-submit:focus,
 .btn-submit:hover {
-  background-color: #188ce8;
+  background-color: var(--blue);
 }
 
 .subscribe-news [type='submit'] {
